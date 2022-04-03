@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: niukouzz/niukou.github.io
 github_url: https://github.com/niukouzz
 url: https://niukou.github.io
-# enforce_ssl: ityouknow.com
+enforce_ssl: niukou.com
 
 ## Gem
 plugins:
